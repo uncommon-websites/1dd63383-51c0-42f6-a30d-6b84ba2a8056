@@ -3,23 +3,25 @@
 
 <section class="relative h-[600px] w-full overflow-hidden">
   <img 
-    src="https://images.unsplash.com/photo-1558909612-e29f4241740c?q=80&w=2070&auto=format&fit=crop" 
-    alt="Grass background" 
+    src="/generated/image-couple-relaxing-on-a-private-beach-at-su-1765515350612-8.webp" 
+    alt="Beach lifestyle" 
     class="w-full h-full object-cover"
   />
   
   <div class="absolute inset-0 flex items-center justify-center px-6">
-    <div class="grid grid-cols-1 md:grid-cols-2 max-w-[1000px] w-full items-center">
+    <div class="grid grid-cols-1 md:grid-cols-2 max-w-[1000px] w-full items-center gap-8">
       <div class="text-white text-[40px] font-light leading-tight mb-8 md:mb-0 pr-8">
-        A lot can happen<br>with a little space.
+        Your property's<br>potential, realized.
       </div>
       
       <div class="bg-[#f9f9f7] rounded-xl p-12 flex flex-col items-center justify-center text-center aspect-square md:aspect-[4/3]">
-        <!-- Placeholder for illustration -->
+        <!-- Brightwild logo illustration -->
         <div class="mb-6 opacity-80">
-           <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" class="text-gray-800"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" x2="9.01" y1="9" y2="9"/><line x1="15" x2="15.01" y1="9" y2="9"/></svg>
+           <svg width="90" height="115" viewBox="0 0 90 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+             <path fill-rule="evenodd" clip-rule="evenodd" d="M31.8701 9.95388L15.3109 19.4791L31.8819 29.0064L48.446 19.4812L31.8701 9.95388ZM53.2588 27.7795L36.6927 37.3058L36.6911 56.3603L53.2588 46.8319V27.7795ZM58.0696 55.1313L41.5014 64.66L58.072 74.187L74.6383 64.6605L58.0696 55.1313ZM79.4486 72.9601L62.883 82.4862V101.538L79.4486 92.0122V72.9601ZM53.2614 101.539V82.4864L36.6903 72.9591V92.012L53.2614 101.539ZM27.0694 56.3613L10.5003 46.8319V27.7788L27.0711 37.3058L27.0694 56.3613ZM27.0687 67.4269L4.48643 54.4394C2.25391 53.1554 0.878662 50.7828 0.878662 48.215V19.4801C0.878662 17.7684 1.79538 16.1867 3.28356 15.3307L28.2608 0.963381C30.4933 -0.320696 33.2439 -0.321154 35.4766 0.962171L60.474 15.3299C61.963 16.1857 62.8804 17.7679 62.8804 19.4801V46.8319L86.665 60.5111C88.1535 61.3671 89.0702 62.9489 89.0702 64.6607V93.3956C89.0702 95.9635 87.6948 98.3361 85.4621 99.62L60.4776 113.988C58.9894 114.843 57.1558 114.843 55.6673 113.988L30.6773 99.6202C28.4444 98.3365 27.0687 95.9635 27.0687 93.3954V67.4269Z" fill="oklch(0.696 0.17 162.48)"/>
+           </svg>
         </div>
-        <p class="text-gray-900 font-handwriting text-xl">Realize your dreams</p>
+        <p class="text-gray-900 text-xl font-light">Lifetime experiences.<br>Outperforming yields.</p>
       </div>
     </div>
   </div>
